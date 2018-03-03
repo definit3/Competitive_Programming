@@ -8,4 +8,4 @@ Solutions to the CP problems. [yet to push the full list]
 
 ## Authors
 
-* **Vivek Raj** - [definit3](https://github.com/definit3
+* **Vivek Raj** - [definit3](https://github.com/definit3)
