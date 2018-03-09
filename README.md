@@ -1,7 +1,7 @@
 # Competitive Programming
 Solutions to the CP problems. [yet to push the full list]
 
-## Language Used
+## Programming Language Used
 
 * C
 * C++
